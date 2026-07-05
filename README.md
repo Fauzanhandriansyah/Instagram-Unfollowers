@@ -25,14 +25,6 @@
 
 ---
 
-## 📸 Preview
-
-<p align="center">
-    <img src="./assets/preview.png" alt="Preview" width="700">
-</p>
-
----
-
 ## 🚀 How to Use
 
 ### 1. Open the Website
