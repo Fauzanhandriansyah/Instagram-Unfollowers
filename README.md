@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/logo.png" alt="Instagram Unfollowers" width="120">
-
 # Instagram Unfollowers
 
 🚀 A simple web tool to find Instagram users who don't follow you back.
