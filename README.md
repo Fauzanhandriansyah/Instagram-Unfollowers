@@ -7,7 +7,6 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Made with Love](https://img.shields.io/badge/Made%20With-%E2%9D%A4-red)
 
 </div>
 
@@ -125,6 +124,6 @@ It helps the project grow and motivates future updates.
 
 <div align="center">
 
-### Made with ❤️ by Zann
+### Made with by Zann
 
 </div>
