@@ -28,6 +28,7 @@
 ## 🚀 How to Use
 
 ### 1. Open the Website
+<img width="525" height="497" alt="image" src="https://github.com/user-attachments/assets/837d74a4-6ff9-4dfe-b2a5-a8668d59af8a" />
 
 Open **Instagram Unfollowers** in your browser.
 
