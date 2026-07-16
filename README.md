@@ -56,7 +56,10 @@ Press:
 
 ### 5. Paste the Script
 
-Paste the copied code into the console and press **Enter**.
+<img width="1275" height="632" alt="image" src="https://github.com/user-attachments/assets/dda929b5-58dd-43b9-8342-645e513d8ed7" />
+
+
+Paste the copied code into the console and press **Enter**. and then click **RUN**
 
 ### 6. Done!
 
